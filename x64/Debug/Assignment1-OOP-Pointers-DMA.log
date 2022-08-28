@@ -1,0 +1,17 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1088,5): warning MSB8027: Two or more files with the name of submission.cpp will produce outputs to the same location. This can lead to an incorrect build result.  The files involved are ..\..\..\..\Downloads\submission.cpp, Submission.cpp.
+  submission.cpp
+  main.cpp
+C:\Users\Vaneeza Ahmad\source\repos\Assignment1-OOP-Pointers-DMA\Assignment1-OOP-Pointers-DMA\main.cpp(8,11): warning C4552: '+': result of expression not used
+C:\Users\Vaneeza Ahmad\source\repos\Assignment1-OOP-Pointers-DMA\Assignment1-OOP-Pointers-DMA\main.cpp(12,10): warning C4552: '+': result of expression not used
+C:\Users\Vaneeza Ahmad\source\repos\Assignment1-OOP-Pointers-DMA\Assignment1-OOP-Pointers-DMA\main.cpp(17,3): error C2561: 'sum': function must return a value
+C:\Users\Vaneeza Ahmad\source\repos\Assignment1-OOP-Pointers-DMA\Assignment1-OOP-Pointers-DMA\main.cpp(5): message : see declaration of 'sum'
+  Submission.cpp
+  Generating Code...
+C:\Users\Vaneeza Ahmad\Downloads\submission.cpp(14): error C4716: 'additionOfBigInteger': must return a value
+C:\Users\Vaneeza Ahmad\Downloads\submission.cpp(18): error C4716: 'subtractionOfBigInteger': must return a value
+C:\Users\Vaneeza Ahmad\Downloads\submission.cpp(22): error C4716: 'multiplicationOfBigInteger': must return a value
+C:\Users\Vaneeza Ahmad\Downloads\submission.cpp(6): error C4716: 'convertToTapCode': must return a value
+C:\Users\Vaneeza Ahmad\Downloads\submission.cpp(10): error C4716: 'convertToString': must return a value
+C:\Users\Vaneeza Ahmad\Downloads\submission.cpp(34): error C4716: 'isprimeNumber': must return a value
+C:\Users\Vaneeza Ahmad\Downloads\submission.cpp(38): error C4716: 'findUppercase': must return a value
+C:\Users\Vaneeza Ahmad\Downloads\submission.cpp(42): error C4716: 'sum': must return a value

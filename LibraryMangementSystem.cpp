@@ -3,7 +3,7 @@
 //LIBRARY MANAGMENT SYSTEM//
 
 #include<iostream>
-#include"Q1.h"
+#include"LibraryMangementSystem.h"
 
 using namespace std;
 
